@@ -1,7 +1,7 @@
 # OC-Multi-Param-AM
 Optimal control of multi-parameter of trapped active matter
 
-Dataset containing protocols found in Casert et al. Nat. Comm. (2024) are located at [Springer Extra Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-52878-2/MediaObjects/41467_2024_52878_MOESM4_ESM.zip).
+Dataset containing protocols found in "Learning protocols for the fast and efficient control of active matter" Casert et al. Nat. Comm. (2024) are located at [Springer Extra Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-52878-2/MediaObjects/41467_2024_52878_MOESM4_ESM.zip).
 
 Once you have the correct packages installed. You may run the following:
 
