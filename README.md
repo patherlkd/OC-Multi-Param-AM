@@ -3,6 +3,8 @@ Optimal control of multi-parameter of trapped active matter
 
 Dataset containing protocols found in Casert et al. Nat. Comm. (2024) are located at [Springer Extra Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-52878-2/MediaObjects/41467_2024_52878_MOESM4_ESM.zip).
 
+Once you have the correct packages installed. You may run the following:
+
 To produce data/plots for Fig. 1:
 python3 adam_optimizer_schmiedl_test_JAX_v2.py
 (For unregularized control the regularization parameter is to 0.0).
@@ -11,8 +13,13 @@ To produce data/plots for Fig. 2:
 python3 adam_optimizer_closed-loop-control_schuttler_test_v4.py
 
 To produce data/plots for Fig S1:
-python3 
+No state-to-state transformation-
 
+python3 adam_optimizer_active-NOs2s-casert_test_JAX_v3.py
+
+Stata-to-state transformation-
+
+python3 adam_optimizer_active-s2s-casert_test_JAX_v2.py
 ---
 
 ## Setup Instructions
