@@ -6,11 +6,11 @@ Dataset containing protocols found in "Learning protocols for the fast and effic
 
 Once you have the correct packages installed. You may run the following:
 
-To produce data/plots for Fig. 1:
+To produce data/plots for Fig. 2:
 python3 adam_optimizer_schmiedl_test_JAX_v2.py
 (For unregularized control the regularization parameter is to 0.0).
 
-To produce data/plots for Fig. 2:
+To produce data/plots for Fig. 3:
 python3 adam_optimizer_closed-loop-control_schuttler_test_v4.py
 
 To produce data/plots for Fig S1:
