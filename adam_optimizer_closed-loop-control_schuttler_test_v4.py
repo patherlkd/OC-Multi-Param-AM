@@ -27,7 +27,7 @@ A2_END = 1.0      # Final Trap Center (Delta l)
 PROTOCOL_NODES = 7500     # Resolution of control protocol
 PADDING_RATIO = 0.1       # Padding to capture boundary jumps
 DT = 0.001                # Timestep
-LEARNING_RATE = 0.01      # Adam Step size
+LEARNING_RATE = 0.005      # Adam Step size
 MAX_ITER = 10000          # Iterations
 
 # --- Smoothness Penalty ---
