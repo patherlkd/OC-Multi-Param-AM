@@ -22,7 +22,7 @@ EPS_END = 5.0
 PROTOCOL_NODES = 200      # Optimizable points within [0, tp]
 PADDING_RATIO = 0.1       # 10% padding before and after to handle boundary jumps
 DT = 0.0005               # Simulation timestep
-LEARNING_RATE = 0.01      # Adam Step size
+LEARNING_RATE = 0.005      # Adam Step size
 MAX_ITER = 4000           # Iterations per tp
 
 # Generate 31 points from 0.1 to 100.0 (10 points per decade)
