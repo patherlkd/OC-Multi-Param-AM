@@ -26,7 +26,7 @@ EPS_END = 5.0    # Final Stiffness
 PROTOCOL_NODES = 1000       # Resolution of control protocol
 PADDING_RATIO = 0.1        # Padding to capture boundary jumps
 DT = 0.0005                 # Timestep
-LEARNING_RATE = 0.01       # Adam Step size
+LEARNING_RATE = 0.005       # Adam Step size
 MAX_ITER = 5000            # Iterations
 
 # --- contral cost Smoothnes Penalty ---
